@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/Hanna_profile.png",
     "email": "heacheng@hawaii.edu",
-    "phone": "808-333-4444",
+    "phone": "",
     "website": "https://hannaparkuh.github.io/",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
     "location": {
@@ -37,21 +37,38 @@
       ]
     },
     {
-      "name": "web design/development",
+      "name": "data mining",
       "keywords": [
       ]
     },
     {
-      "name": "graphic design",
+      "name": "artificial intelligence",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "educaion technology",
+      "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "Javascript",
+        "Assembly",
+        "Common Lisp"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Ubuntu",
+        "Git/GitHub",
+        "g++",
+        "TI LaunchPad"
       ]
     }
   ],
