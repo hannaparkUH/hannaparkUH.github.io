@@ -79,10 +79,10 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii, Honolulu, HI"(expected in Spring 2021),
       "area": "Computer Science and Information Technology",
       "studyType": "B.S.",
-      "endDate": "expected Spring, 2021",
+      "endDate": "Present",
       "gpa": "",
       "courses": [
       ]
