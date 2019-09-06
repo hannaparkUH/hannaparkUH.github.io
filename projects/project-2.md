@@ -9,12 +9,10 @@ labels:
   - HTML/CSS
   - Web Design
   - User Experience
-  - Photoshop
-  - Illustrator
   
 summary: Web designs I created for various companies
 ---
-I worked as a web/print designer at Business Information Group (Toronto, Canada) for 8 years. I was responsible for designing web sites, front-end development and assisting marketing team for special promotions. I have extensive experience in working with Photoshop/Illustrator. I am also proficient in the use of HTML/CSS.
+I worked as a web/print designer for 9 years. I have experience in website design, front-end development and print design(logos, posters, brochures, presentations and etc.).
 
 <hr>
 
