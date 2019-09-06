@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/printdesign_th.png
+image: images/printdesign_th.jpg
 title: Print Design
 permalink: projects/printdesign
 # All dates must be YYYY-MM-DD format!
