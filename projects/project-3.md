@@ -8,7 +8,7 @@ permalink: projects/printdesign
 labels:
   - Illustration
   - Photoshop
-summary: A text adventure game I developed for ICS 313.
+summary: print design 
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget eros gravida, elementum odio ut, dictum urna. Pellentesque consequat, felis at commodo convallis, neque dolor congue sapien, id hendrerit odio ligula ornare lorem. Vestibulum efficitur urna vitae finibus finibus. Morbi consequat iaculis lacinia. Fusce feugiat magna eget lorem lobortis, sed maximus velit pretium.
@@ -16,7 +16,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget eros gravida
 <hr>
 
 <img class="ui image" src="{{ site.baseurl }}/images/logos.jpg">
+
 <img class="ui image" src="{{ site.baseurl }}/images/AIR_ppt.jpg">
+
 <img class="ui image" src="{{ site.baseurl }}/images/icc.jpg">
 
 <hr>
