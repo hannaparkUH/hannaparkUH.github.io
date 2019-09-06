@@ -141,26 +141,40 @@
   ],
   "volunteer": [
     {
+      "organization": "Kilauea Ohana Playschool",
+      "website": "",
+      "position": "Volunteer",
+      "startDate": "2016",
+      "endDate": "2018",
+      "summary": "",
+      "highlights": [
+        "Designed & Maintained KOP website",
+        "Created a school year book",
+        "Helped organizing events"
+      ]
+    },
+        {
       "organization": "Korean Canadian Childeren's Associations (KCCA)",
       "website": "",
-      "position": "",
+      "position": "Volunteer",
       "startDate": "2006",
       "endDate": "2010",
       "summary": "",
       "highlights": [
-        "Created/Maintained KCCA website",
+        "Designed & Maintained KCCA website",
         "Organized summer camps and events for KCCA families"
       ]
     }
+    
   ],
   "awards": [
     {
       "title": "Sheridan College Entrance Scholarship ",
-      "date": "2006",
+      "date": "Sheridan College, 2006",
     },
     {
-      "title": "The Humber President’s Letter Award",
-      "date": "2004",
+      "title": "The Humber President’s Letter Award, Humber College",
+      "date": "Humber College, 2004",
     }
   ],
   "references": [
