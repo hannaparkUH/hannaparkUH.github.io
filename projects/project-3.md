@@ -8,12 +8,9 @@ permalink: projects/printdesign
 labels:
   - Illustration
   - Photoshop
-summary: logos/brand identity, poster, presentation slide design 
+summary: Logo, Brand Identity, Poster, Presentation, eBlast 
 ---
 
-
-
-<hr>
 
 <img class="ui image" src="{{ site.baseurl }}/images/logos.jpg">
 
@@ -21,7 +18,7 @@ summary: logos/brand identity, poster, presentation slide design
 
 <img class="ui image" src="{{ site.baseurl }}/images/icc.jpg">
 
-<hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+
+
 
