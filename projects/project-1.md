@@ -8,23 +8,23 @@ permalink: projects/game
 labels:
   - Java
   - Illustration
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  
+summary: JAVA Games developed for ICS 111
 ---
 <img class="ui image" src="{{ site.baseurl }}/images/HungrySpider.jpg">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget eros gravida, elementum odio ut, dictum urna. Pellentesque consequat, felis at commodo convallis, neque dolor congue sapien, id hendrerit odio ligula ornare lorem. Vestibulum efficitur urna vitae finibus finibus. Morbi consequat iaculis lacinia. Fusce feugiat magna eget lorem lobortis, sed maximus velit pretium. Quisque porttitor justo elit, vitae bibendum metus consequat eget. Etiam id ipsum vel turpis vulputate molestie non et elit. Duis a turpis tellus. Sed vitae euismod mauris. Nam iaculis blandit lobortis. Donec ligula nisl, tempor a lobortis sit amet, posuere in mi. Vestibulum in commodo ante. Quisque magna risus, vehicula non eros non, sagittis ornare eros. Suspendisse velit sapien, fringilla nec est sit amet, luctus commodo quam. Morbi consequat semper euismod. Proin felis leo, suscipit hendrerit eros ac, lacinia viverra velit.
-
+This game is developed to gain experience in using arrays, object oriented programming, variables, operators, loops, as well as some graphics and sound. The player gets scores as the spider catches bugs and looses scores as the spider gets hit by a net . Once the bug is caught, it desappears and re-appears in some other random location.
+You can learn more at the [YouTube: Hungry Spider](https://www.youtube.com/watch?v=j-TS8BUSGZk).
 
 <hr>
 
 <img class="ui image" src="{{ site.baseurl }}/images/Koreans.jpg">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget eros gravida, elementum odio ut, dictum urna. Pellentesque consequat, felis at commodo convallis, neque dolor congue sapien, id hendrerit odio ligula ornare lorem. Vestibulum efficitur urna vitae finibus finibus. Morbi consequat iaculis lacinia. Fusce feugiat magna eget lorem lobortis, sed maximus velit pretium. Quisque porttitor justo elit, vitae bibendum metus consequat eget. Etiam id ipsum vel turpis vulputate molestie non et elit. Duis a turpis tellus. Sed vitae euismod mauris. Nam iaculis blandit lobortis. Donec ligula nisl, tempor a lobortis sit amet, posuere in mi. Vestibulum in commodo ante. Quisque magna risus, vehicula non eros non, sagittis ornare eros. Suspendisse velit sapien, fringilla nec est sit amet, luctus commodo quam. Morbi consequat semper euismod. Proin felis leo, suscipit hendrerit eros ac, lacinia viverra velit.
+This game is developed for people (adolescents and up) who want to learn basic Korean alphabet letters using JAVA. The player gets scores by matching the letter in the fish bowl with the appropriate lettered fish. 
+You can learn more at the [YouTube: Fishing for Korean alphabet letters](https://www.youtube.com/watch?v=IBvdSvmN7B4&feature=youtu.be).
 
-<hr>
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+
 
 
 
