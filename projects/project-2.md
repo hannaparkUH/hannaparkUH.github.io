@@ -12,12 +12,9 @@ labels:
   - Photoshop
   - Illustrator
   
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: Web designs I created for various companies
 ---
-
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget eros gravida, elementum odio ut, dictum urna. Pellentesque consequat, felis at commodo convallis, neque dolor congue sapien, id hendrerit odio ligula ornare lorem. Vestibulum efficitur urna vitae finibus finibus. Morbi consequat iaculis lacinia. Fusce feugiat magna eget lorem lobortis, sed maximus.
+I worked as a web/print designer at Business Information Group (Toronto, Canada) for 8 years. I was responsible for designing web sites, front-end development and assisting marketing team for special promotions. I have extensive experience in working with Photoshop/Illustrator. I am also proficient in the use of HTML/CSS.
 
 <hr>
 
