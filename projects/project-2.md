@@ -22,10 +22,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget eros gravida
 <hr>
 
 <img class="ui image" src="{{ site.baseurl }}/images/SPIT_home.jpg">
-<img class="ui image" src="{{ site.baseurl }}/images/TN_home.jpg">
-<img class="ui image" src="{{ site.baseurl }}/images/Margie_home.jpg">
-<img class="ui image" src="{{ site.baseurl }}/images/ideahunter_homepage.jpg">
-<img class="ui image" src="{{ site.baseurl }}/images/ahc.jpg">
 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+<img class="ui image" src="{{ site.baseurl }}/images/TN_home.jpg">
+
+<img class="ui image" src="{{ site.baseurl }}/images/Margie_home.jpg">
+
+<img class="ui image" src="{{ site.baseurl }}/images/ideahunter_homepage.jpg">
+
+
