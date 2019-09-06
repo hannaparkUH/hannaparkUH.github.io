@@ -1,16 +1,17 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/webdesign_th.jpg
+title: Web Design
+permalink: projects/webdesign
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
+  - HTML/CSS
+  - Web Design
+  - User Experience
+  - Photoshop
+  - Illustrator
+  
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
 
