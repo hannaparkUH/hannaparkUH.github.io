@@ -8,13 +8,10 @@ permalink: projects/webdesign
 labels:
   - HTML/CSS
   - Web Design
-  - User Experience
+  - UX/UI
   
-summary: Web designs I created for various companies
+summary: Web Design and Front-web Development
 ---
-I worked as a web/print designer for 9 years. I have experience in website design, front-end development and print design(logos, posters, brochures, presentations and etc.).
-
-<hr>
 
 <img class="ui image" src="{{ site.baseurl }}/images/SPIT_home.jpg">
 
