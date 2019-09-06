@@ -8,10 +8,10 @@ permalink: projects/printdesign
 labels:
   - Illustration
   - Photoshop
-summary: print design 
+summary: logos/brand identity, poster, presentation slide design 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget eros gravida, elementum odio ut, dictum urna. Pellentesque consequat, felis at commodo convallis, neque dolor congue sapien, id hendrerit odio ligula ornare lorem. Vestibulum efficitur urna vitae finibus finibus. Morbi consequat iaculis lacinia. Fusce feugiat magna eget lorem lobortis, sed maximus velit pretium.
+
 
 <hr>
 
