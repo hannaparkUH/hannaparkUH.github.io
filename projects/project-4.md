@@ -8,7 +8,7 @@ permalink: projects/illustration
 labels:
   - Illustration
 
-summary: Adobe Illustrator is the first graphic design software I learned in college. Before switching my career from graphic designer to web designer, I used Illustrator every day at work. I still love Illustrators and use it when I create websites. These are the illustrations I created when I worked as a graphic designer.  
+summary: Adobe Illustrator is the first graphic design software I learned in college. Before switching my career from graphic designer to web designer, I used Illustrator every day at work. I still love Illustrators and use it when I create websites. These are the illustrations I created when I worked as a graphic designer.   
 
 <hr>
 
