@@ -16,7 +16,7 @@ summary: Adobe Illustrator is the first graphic design software I learned in col
 
 <img class="ui image" src="{{ site.baseurl }}/images/RedWatch.jpg">
 
-<img class="ui image" src="{{ site.baseurl }}/images/waterfront.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/waterfront.jpg"> 
 
 
 
