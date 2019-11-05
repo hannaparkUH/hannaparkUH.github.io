@@ -19,6 +19,7 @@ With Hawaii’s traffic being the second worst in the nation and limited parking
  
 Our solution is a website which would allow users to organize carpools with other members of UH. Users can sign up to be a driver/rider, and drivers can search for riders that are most convenient to/from campus. These carpools can be recurring such as everyday classes or one-time such as for special events. 
 
+
 **Mockup page ideas**
 
 • User profile
@@ -31,6 +32,7 @@ Our solution is a website which would allow users to organize carpools with othe
 
 • Searching page for drivers (search by events, areas, )
 
+
 **Use case ideas**
 
 • Everyday classes
@@ -38,6 +40,7 @@ Our solution is a website which would allow users to organize carpools with othe
 • On-campus events
 
 • For some emergency case eg. students forget their book, note,.....
+
 
 **Beyond the basics**
 
