@@ -9,9 +9,15 @@ labels:
 ---
 <img class="ui image" src="../images/css-frame.jpg">
 
-## My first CSS/UI framework "Bootstrap"
-When I worked as a web designer 7 years ago, my company didn't use CSS/UI frameworks. Web designers had to write same CSS codes repeatedly and test a website in difference browsers/platforms. I've started working at ITS from this summer. My boss asked me to learn Bootstrap for the website projects. After I learned Bootstrap, I was amazed by how easy bootstrap can make things and save hours of work.
+## Why Should Software Engineers Use GitHub?
 
-I think the best tool of BootStrap is a built-in responsive grid system. The bootstrap grid divides the screen into 12 columns. You can adjust the layout easily according to the size of the device. Bootstrap also provides standard components such as nav bars, drop downs, buttons, forms etc. You can quickly style the elements by downloading the source code. Bootstrap is compatible with main browsers. You don't need to worry about cross-browser problems.
+The tool I used most in the ICS 314 class was GitHub. What is GitHub? GitHub is a cloud-based service that helps people share and manage their code, also track changes to their code. GitHub is especially popular for open-source projects because anybody can access projects for free to use or study. Open source project is especially useful for students because it allows them to learn and improve their projects. I believe that we were able to learn the technology stack quickly in the class thanks to the GitHub and open source projects. 
+
+
+## The Importance of Effective Communication
+
+There are so many things involved in creating a website: hosting, template design, front-end development, back-end development, content writing, database, testing and etc. It’s important to communicate effectively among team members. For my final group project, we used a style of Agile Project Management called Issue Driven Project Management(IDPM). Agile Project Management is an iterative approach to manage projects. It breaks  a large project into small tasks, so enables a team to adapt to changes quickly. There are many benefits using IDPM. IDPM shows actual progress of a project. All of the team members can track the status of projects and be directly involved with management. 
+
+For my final group project, we used a style of Agile Project Management called Issue Driven Project Management(IDPM). Agile Project Management is an iterative approach to manage projects. It breaks  a large project into small tasks, so enables a team to adapt to changes quickly. There are many benefits using IDPM. IDPM shows actual progress of a project. All of the team members can track the status of projects and be directly involved with management.
 
 
