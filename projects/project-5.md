@@ -17,11 +17,11 @@ Adobe Illustrator is the first graphic design software I learned. Before switchi
 
 <hr>
 
-<img class="ui image" src="images/uhoneride_home.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/uhoneride_home.jpg">
 
-<img class="ui image" src="images/uhoneride_offer.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/uhoneride_offer.jpg">
 
-<img class="ui image" src="images/uhoneride_find.jpg"> 
+<img class="ui image" src="{{ site.baseurl }}/images/uhoneride_find.jpg"> 
 
 <img class="ui image" src="{{ site.baseurl }}/images/uhoneride_driverprofile.jpg"> 
 
