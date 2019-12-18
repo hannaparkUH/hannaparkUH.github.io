@@ -13,7 +13,7 @@ labels:
 
 The tool I used most in the ICS 314 class was GitHub. What is GitHub? GitHub is a cloud-based service that helps people share and manage their code, also track changes to their code. GitHub is especially popular for open-source projects because anybody can access projects for free to use or study. Open source project is especially useful for students because it allows them to learn and improve their projects. I believe that we were able to learn the technology stack quickly in the class thanks to the GitHub and open source projects. 
 
-<img class="ui image" src="../images/agile.jpeg">
+<img class="ui image" src="../images/agile.jpg">
 
 ## The Importance of Effective Communication
 
