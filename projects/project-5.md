@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/illustration_th.jpg
+image: images/uhoneride_th.jpg
 title: Website Project for ICS 314
 permalink: projects/UH One Ride
 # All dates must be YYYY-MM-DD format!
@@ -17,11 +17,11 @@ Adobe Illustrator is the first graphic design software I learned. Before switchi
 
 <hr>
 
-<img class="ui image" src="{{ site.baseurl }}/images/uhoneride_home.jpg">
+<img class="ui image" src="images/uhoneride_home.jpg">
 
-<img class="ui image" src="{{ site.baseurl }}/images/uhoneride_offer.jpg">
+<img class="ui image" src="images/uhoneride_offer.jpg">
 
-<img class="ui image" src="{{ site.baseurl }}/images/uhoneride_find.jpg"> 
+<img class="ui image" src="images/uhoneride_find.jpg"> 
 
 <img class="ui image" src="{{ site.baseurl }}/images/uhoneride_driverprofile.jpg"> 
 
