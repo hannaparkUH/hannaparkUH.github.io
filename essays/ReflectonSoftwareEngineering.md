@@ -11,12 +11,10 @@ labels:
 
 ## Why Should Software Engineers Use GitHub?
 
-<img class="ui image" src="../images/GitHub_users.png" width="400" class="ui right floated image">
-The tool I used most in the ICS 314 class was GitHub. What is GitHub? GitHub is a cloud-based service that helps people share and manage their code, also track changes to their code. GitHub is especially popular for open-source projects because anybody can access projects for free to use or study. Open source project is especially useful for students because it allows them to learn and improve their projects. I was able to access to various web developer tools and learning resources through GitHub. Also, GitHub was very helpful for the final group project because it allows to colloborate with my team meber easily. 
+<img class="ui image" src="../images/GitHub_users.png" width="400">
+The tool I used most in the ICS 314 class was GitHub. What is GitHub? GitHub is a cloud-based service that helps people share and manage their code, also track changes to their code. GitHub is especially popular for open-source projects because anybody can access projects for free to use or study. Open source project is useful for students because it allows them to learn and improve their projects. I was able to access various web developer tools and learning resources through GitHub. Also, GitHub was very helpful for the final group project because it allows to collaborate with my team member easily. 
 
-As of May 2019, GitHub reports that there are over 37 million users and more than 100 million repositories. Many companies are using GitHub. 
-I was able to learn the technology stack quickly in the class thanks to the GitHub and open source projects. 
-
+As of May 2019, GitHub reports that there are over 37 million users and more than 100 million repositories. In many cases, companies ask you for a GitHub profile to view your projects.  As a CS student, it's important to maintain your GitHub page professional and update with new projects regularly.
 
 
 ## The Importance of Effective Communication
