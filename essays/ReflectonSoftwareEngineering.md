@@ -22,8 +22,8 @@ As of May 2019, GitHub reports that there are over 37 million users and more tha
 
 <img class="ui image" src="../images/agile.jpg">
 
-There are so many things involved in creating a website: hosting, template design, front-end development, back-end development, content writing, database, testing and etc. It’s important to communicate effectively among team members. For my final group project, we used a style of Agile Project Management called Issue Driven Project Management(IDPM). Agile Project Management is an iterative approach to manage projects. It breaks  a large project into small tasks, so enables a team to adapt to changes quickly. There are many benefits using IDPM. IDPM shows actual progress of a project. All of the team members can track the status of projects and be directly involved with management. 
+There are so many things involved in creating a website: hosting, template design, front-end development, back-end development, content writing, database, testing and etc. It’s important to communicate effectively among team members. 
 
-For my final group project, we used a style of Agile Project Management called Issue Driven Project Management(IDPM). Agile Project Management is an iterative approach to manage projects. It breaks  a large project into small tasks, so enables a team to adapt to changes quickly. There are many benefits using IDPM. IDPM shows actual progress of a project. All of the team members can track the status of projects and be directly involved with management.
+For my final group project, we used a style of Agile Project Management called Issue Driven Project Management (IDPM). Agile Project Management is an iterative approach to manage projects. It breaks a large project into small tasks, so enables a team to adapt to changes quickly. There are many benefits using IDPM. IDPM shows actual progress of a project. All of the team members can track the status of projects and be directly involved with management. 
 
 
