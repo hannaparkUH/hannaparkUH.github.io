@@ -10,8 +10,8 @@ labels:
 
 summary: UH One Ride "Commute Smart"
 ---
-
-
+I created a website with my team member using a meteor application template. The main purpose of the website is to provide a rideshare service to the UH community. UH One Ride connects drivers with cars and passengers looking for a ride. 
+Throughout this project, I have learned about various web applications tools(Sementic UI, React, Meteor), database, and teamwork. 
 
 <hr>
 
