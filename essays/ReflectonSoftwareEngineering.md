@@ -13,7 +13,7 @@ labels:
 
 <img class="ui image" src="../images/GitHub_users.png">
 
-The tool I used most in the ICS 314 class was GitHub. What is GitHub? GitHub is a cloud-based service that helps people share and manage their code, also track changes to their code. GitHub is especially popular for open-source projects because anybody can access projects for free to use or study. Open source project is useful for students because it allows them to learn and improve their projects. I was able to access various web developer tools and learning resources through GitHub. Also, GitHub was very helpful for the final group project because it allows to collaborate with my team member easily. 
+The tool I used most in the ICS 314 class was GitHub. What is GitHub? GitHub is a cloud-based service that helps people share and manage their code, also track changes to their code. GitHub is especially popular for open-source projects because anybody can access projects for free to use or study. Open source project is useful for students because it allows them to learn and improve their projects. I was able to access various web developer tools and learning resources through GitHub. Also, GitHub was very helpful for the final group project because it allows to collaborate with my team member. 
 
 As of May 2019, GitHub reports that there are over 37 million users and more than 100 million repositories. In many cases, companies ask you for a GitHub profile to view your projects.  As a CS student, it's important to maintain your GitHub page professional and update with new projects regularly.
 
