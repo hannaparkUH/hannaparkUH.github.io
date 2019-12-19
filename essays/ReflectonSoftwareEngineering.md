@@ -7,13 +7,13 @@ date: 2019-12-18
 labels:
 
 ---
-<img class="ui image" src="../images/github_PNG20.png" width="200" class="ui medium right floated image">
+<img class="ui image" src="../images/github_PNG20.png" width="150" class="ui right floated image">
 
 ## Why Should Software Engineers Use GitHub?
 
 The tool I used most in the ICS 314 class was GitHub. What is GitHub? GitHub is a cloud-based service that helps people share and manage their code, also track changes to their code. GitHub is especially popular for open-source projects because anybody can access projects for free to use or study. Open source project is especially useful for students because it allows them to learn and improve their projects. We were able to learn the technology stack quickly in the class thanks to the GitHub and open source projects. 
 
-<img class="ui image" src="../images/agile.jpg" width="300">
+<img class="ui image" src="../images/agile.jpg" width="500">
 
 ## The Importance of Effective Communication
 
