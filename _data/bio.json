@@ -32,8 +32,6 @@
     {
       "name": "Web Design/Development",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
@@ -42,19 +40,22 @@
       ]
     },
     {
-      "name": "Graphic Design",
+      "name": "Information Architecture",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Education Technolodgy",
       "keywords": [
       ]
     }
-  ],
+  ]
   "skills": [
     {
       "name": "Languages",
       "level": "",
       "keywords": [
         "HTML/CSS",
-        "C",
-        "C++",
         "Java",
         "Javascript",
       ]
@@ -63,11 +64,11 @@
       "name": "Tools & Technologies",
       "level": "",
       "keywords": [
-        "Photoshop",
-        "Illustrator",
-        "Indesign",
+        "Adobe Creative Suite",
         "Wordpress",
-        "Camtasia",
+        "Semantic UI React",
+        "BootStrap",
+        "Meteor",
         "Git/GitHub",
       ]
     }
@@ -90,7 +91,7 @@
       "gpa": "",
       "courses": [
       ]
-    },
+    }
     {
       "institution": "Humber College, Toronto, Canada",
       "area": "Package and Graphic Design",
