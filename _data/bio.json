@@ -3,14 +3,14 @@
     "name": "Hanna Park",
     "label": "Student",
     "picture": "https://raw.githubusercontent.com/hannaparkUH/hannaparkUH.github.io/master/images/Hanna_profile.png",
-    "email": "heacheng@hawaii.edu",
+    "email": "",
     "website": "https://hannaparkUH.github.io",
     "summary": "I am studying for a B.A. in Information and Computer Science at the University of Hawaiʻi at Mānoa. I expect to graduate in Spring, 2021.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "",
       "city": "Honolulu",
-      "countryCode": "USA",
+      "countryCode": "",
       "region": "Hawaii"
     },
     "profiles": [
