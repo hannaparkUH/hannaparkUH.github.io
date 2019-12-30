@@ -1,102 +1,93 @@
 {
   "basics": {
-    "name": "Hanna Park",
+    "name": "Molly Maluhia",
     "label": "Student",
-    "picture": "https://raw.githubusercontent.com/hannaparkUH/hannaparkUH.github.io/master/images/Hanna_profile.png",
-    "email": "heacheng@hawaii.edu",
-    "phone": "",
-    "website": "https://hannaparkuh.github.io/",
-    "summary": "I am studying for a B.A. in Information and Computer Science at the University of Hawaiʻi at Mānoa. I expect to graduate in Spring, 2021.",
+    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "email": "molly@hawaii.edu",
+    "phone": "808-333-4444",
+    "website": "https://mmaluhia.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "",
+      "postalCode": "96822",
       "city": "Honolulu",
-      "countryCode": "",
+      "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "hannaUH",
-        "url": "https://hannaparkuh.github.io/"
+        "username": "mmaluhia",
+        "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "hannaparkdesign",
-        "url": "https://www.linkedin.com/in/hannaparkdesign/"
+        "username": "mollymaluhia",
+        "url": "http://linkedin.com/in/changeme"
+      },
+      {
+        "network": "twitter",
+        "username": "mollymal",
+        "url": "http://twitter.com/changeme"
+      },
+      {
+        "network": "instagram",
+        "username": "molly",
+        "url": "http://instagram.com/changeme"
       }
-
     ]
   },
   "interests": [
     {
-      "name": "Web Design/Development",
+      "name": "internet of things",
+      "keywords": [
+        "Arduino",
+        "TI MSP430"
+      ]
+    },
+    {
+      "name": "data mining",
       "keywords": [
       ]
     },
     {
-      "name": "Software Engineer",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Information Architecture",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Education Technology",
+      "name": "artificial intelligence",
       "keywords": [
       ]
     }
-  ]
+  ],
   "skills": [
     {
-      "name": "Languages",
+      "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "HTML/CSS",
+        "C",
+        "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "Assembly",
+        "Common Lisp"
       ]
     },
     {
-      "name": "Tools & Technologies",
+      "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Adobe Creative Suite",
-        "Wordpress",
-        "Semantic UI React",
-        "BootStrap",
-        "Meteor",
-        "Git/GitHub"
+        "MacOS",
+        "Ubuntu",
+        "Git/GitHub",
+        "g++",
+        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI(expected in Spring 2021)",
-      "area": "Information and Computer Science",
-      "studyType": "B.A.",
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2018)",
+      "studyType": "B.S.",
+      "startDate": "2013-09-01",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "Sheridan College, Oakville, Canada",
-      "area": "New Media Design",
-      "studyType": "Postgraduate certificate",
-      "endDate": "2006",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-    {
-      "institution": "Humber College, Toronto, Canada",
-      "area": "Package and Graphic Design",
-      "studyType": "Associate Degree",
-      "endDate": "2004",
       "gpa": "",
       "courses": [
       ]
@@ -104,94 +95,69 @@
   ],
   "work": [
     {
-      "company": "UH Information Technology Services",
-      "position": "Web Designer",
+      "company": "UH Manoa Board of Publications",
+      "position": "Web Developer",
       "website": "",
-      "startDate": "2019",
+      "startDate": "2015-08-01",
       "endDate": "Present",
-      "summary": "",
+      "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Design websites & Font-end development",
-        "Create eblasts"
-
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "Mānoa Institutional Research Office",
-      "position": "Media Specialist",
-      "website": "",
-      "startDate": "2019",
-      "endDate": "Present",
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
       "summary": "",
       "highlights": [
-        "Create power point presentations, analysis briefs, and reports.",
-        "Design websites, logos and various print materials",
-        "Create and Edit videos"
-      ]
-    },
-        {
-      "company": "Business Information Group",
-      "position": "Web Designer",
-      "website": "",
-      "startDate": "2006",
-      "endDate": "2014",
-      "summary": "",
-      "highlights": [
-        "Design, develop and maintain websites",
-        "Create banners, enewsletters, and site promotions",
-        "Structure website templates and schematics"
-      ]
-    },
-            {
-      "company": "Printing Promotion Group",
-      "position": "Graphic Designer",
-      "website": "",
-      "startDate": "2004",
-      "endDate": "2005",
-      "summary": "",
-      "highlights": [
-        "Design posters, brochures, flyers, logos, signs and corporate IDs ",
-        "Create computer illustrations and edit photos",
-        "Operate printers and prepare files to print"
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Kilauea Ohana Play School",
-      "website": "",
-      "position": "Volunteer",
-      "startDate": "2016",
-      "endDate": "2018",
-      "summary": "",
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Lead developer for weather sensing project",
       "highlights": [
-        "Design & Maintain the school website",
-        "Create a school year book",
-        "Assist the teacher and organize school events"
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
       ]
     },
-        {
-      "organization": "Korean Canadian Childeren's Associations (KCCA)",
+    {
+      "organization": "",
       "website": "",
-      "position": "Volunteer",
-      "startDate": "2006",
-      "endDate": "2010",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
       "summary": "",
       "highlights": [
-        "Design & Maintain KCCA website",
-        "Organize summer camps and events for KCCA families"
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
-    
   ],
   "awards": [
     {
-      "title": "Sheridan College Entrance Scholarship ",
-      "date": "Sheridan College, 2006"
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "The Humber President’s Letter Award",
-      "date": "Humber College, 2004"
+      "title": "First place",
+      "date": "2015",
+      "awarder": "University of Hawaii Micromouse Competition",
+      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
