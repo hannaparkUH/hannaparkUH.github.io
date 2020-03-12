@@ -11,7 +11,7 @@ labels:
 summary: Technical illustrations created in Adobe Illustrator
 ---
 
-Adobe Illustrator is the first graphic design software I learned. Before switching my career from graphic designer to web designer, I used Illustrator every day at work. I still love Illustrators and use it when I create websites. These are the illustrations I created when I worked as a graphic designer.  
+Adobe Illustrator is the first graphic design software I learned in college. Although Illustrator and Photoshop have a lot in common, there are differences between the two software. Illustrator has advantages that Photoshop doesn't have. Photoshop is based on pixel while Illustrator works off vectors. Vectors are scalable images that can be sized up and down easily. I like drawing and coloring using various tools in Illustrator. 
 
 <hr>
 
