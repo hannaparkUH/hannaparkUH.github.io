@@ -14,6 +14,8 @@ I am lucky to have a background in both print and web design fields. Print desig
 
 <img class="ui image" src="{{ site.baseurl }}/images/yoga.jpg">
 
+<img class="ui image" src="{{ site.baseurl }}/images/NSSE.jpg">
+
 <img class="ui image" src="{{ site.baseurl }}/images/logos.jpg">
 
 <img class="ui image" src="{{ site.baseurl }}/images/AIR_ppt.jpg">
