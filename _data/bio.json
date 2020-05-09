@@ -15,7 +15,7 @@
       {
         "network": "github",
         "username": "hannaparkUH",
-        "url": "https://hannaparkuh.github.io/"
+        "url": "https://github.com/hannaparkUH"
       },
       {
         "network": "linkedin",
@@ -47,6 +47,7 @@
       "level": "",
       "keywords": [
         "HTML/CSS",
+        "C/C++",
         "Java",
         "Javascript"
       ]
@@ -60,7 +61,8 @@
         "Semantic UI React",
         "BootStrap",
         "Meteor",
-        "Git/GitHub"
+        "Git/GitHub",
+        "Camtasia"
       ]
     }
   ],
