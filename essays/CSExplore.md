@@ -10,13 +10,13 @@ labels:
 
 After reviewing the CSExplore resources, I was very impressed by their quality learning materials. These resources make students to master computer programming from basics to advanced. There are plenty of programming websites for students to explore. It might be hard to choose right resources which hooks children’s CS interest. We need to guide high school students in right direction.  
 
-##Code.org 
+## Code.org
 Code.org offers free coding for all grades and ages. This website has a lot of content that is suited for students who are interested in getting more advanced programming skills. “Hour of Code” section on the website is designed for students who don’t have time for a full-length course. There are more than 200 short tutorials to help students learn coding in short time. 
 
-##Exploring Computer Science 
+## Exploring Computer Science 
 Exploring Computer Science provides high school level computer science curriculum for educators. They support teachers/districts by providing teaching resources and teacher professional developments. The six curriculums are Human Computer Interaction, Problem Solving, Web Design, Programming, Computing and Data Analysis, and Robotics. ECS develops K-12/university partnerships that support research and expand the availability of learning opportunities. This website has great information on how to engage students in computational thinking and practice. 
 
-##Hack Club 
+## Hack Club 
 Hack Club is global network of high school computer science club. This is an interactive website which keep user engaged and coming back for more. The design is simple and colorful. The images, videos, social medias delight users as they explore. (High schoolers prefer visual content than text content. )
 
 It is important to learn how to build relationships and build teamwork at a young age. Joining a group and doing a project together can be a great learning experience. CSExplore can be an online platform that helps local high school students to organize CS clubs. The club page can be used to advertise their clubs, recruit members, organize events, and post their projects and communicate with other members.  
