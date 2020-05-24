@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/HungrySpider_th.jpg
-title: Game
+title: Java Game
 permalink: projects/game
 # All dates must be YYYY-MM-DD format!
 labels:
