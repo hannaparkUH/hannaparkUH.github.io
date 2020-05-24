@@ -8,9 +8,9 @@ labels:
 
 ---
 
-As a transfer student and a student parent, I sometimes find myself at school that is not the right fit, either socially or academically. I have to take courses, work part-time and raise two kids.  It is not easy for me to meet classmates and get new information. RadGrad helps me to explore opportunities and connect to other students. I am sure RadGrad is very useful website for most students, especially for minority students like me. 
+As a transfer student and a student parent, I sometimes find myself at school that is not the right fit, either socially or academically. I am always busy taking courses, working part-time and raising kids.  It is not easy for me to meet classmates and get latest school information. RadGrad helps me to explore opportunities and connect to other students. RadGrad is very useful resource for most students, especially for minority students like me. 
 
-## Importance of visual content
+## Importance of Visual Content
 Visuals are an important part of websites especially for college students. It can attract and retain users. RadGrad do not use much graphic elements such as photos, icons and graphs.  The People follow directions with texts and images, understand content better than those who follow the directions with only texts.  RadGrad also need more attractive “calls to action” to make users to navigate the website more easily.
 
 ## Suggestions for Improvement
