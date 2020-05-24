@@ -16,7 +16,7 @@ Visuals are an important part of websites especially for college students. It ca
 ## Ways to increase traffic to RadGrad
 Unfortunately, I do not visit Regard regularly. I visit RadGrad at the beginning of the semester to get help for course selection and at the end of the semester to update ICE points.  I would visit RadGrad more often if I can get new updates regularly. Email blast is a very effective way to inform new updates (events, career opportunities, course of the month and etc.) to the users. 
 
-School clubs (ACMManoa, Grey Hats, and etc.) should also be a part of RadGrad. There are so many benefits joining college clubs. It helps students to build connections, learn new skills, find more opportunities, and provide memorable college experience. If RadGrad offers platforms for clubs to advertise, more students will visit RadGrad regularly.  
+I think that school clubs (ACMManoa, Grey Hats, and etc.) should be a part of RadGrad. There are so many benefits joining college clubs. It helps students to build connections, learn new skills, find more opportunities, and provide memorable college experience. If RadGrad offers platforms for clubs to advertise, more students will visit RadGrad regularly.  
 
 ## Suggestions for Improvement
 1. Homepage – There are too many scroll bars are used. It looks a little cluttered and most of them probably are not needed. Instead of using scroll bars, we can shorten the description and add “view more” which links to the related page.
