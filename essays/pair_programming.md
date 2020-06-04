@@ -25,11 +25,11 @@ To setup a workspace on Floobits, you have to sign up first. Once you have signe
 Floobits also offers plugins for IntelliJ IDEA, Atom, Emacs, Sublime Text and Neovim. Floobits plugin lets you create workspaces and upload code directly from your native editor. It is easy to install plugin on IntelliJ. Go to the settings and select “Plugins”. Then, search for “Floobits plugin” using the search box. Once the Floobits plugin is installed, you can view a Floobits button on the toolbar. The green arrow. Like the Floobits workspace features, you can share files and invite new users through the Floobits plugin. 
 
 
-### Code Together
-***images/codetogether_plugin
+## Code Together
+<img class="ui image" src="../images/codetogether_webeditor.jpg">
 The main principal of Code Together is similar with Floobits. It allows you to collaborate with others by sharing a link. CodeTogether is available for Eclipse, VS Code and IntelliJ. Signup is not required to install CodeTogether plugin. You just need to download the plugin from their website and add it to your code editor. To share files, click “Start Sharing” link and send the URL to guests. CodeTogether is offering their premium plan ($8 per month) for free during the COVID-19 pandemic. 
 
-### My User Experience
+## My User Experience
 I had three group programming sessions with my team members. 
 1.	Session One -  5/30/2020, 1:30PM with Angeli Amascual, Max Deyo and Quinne Uchida
 2.	Session Two -  6/1/2020, 3:00PM with Angeli Amascual, Max Deyo and Quinne Uchida
