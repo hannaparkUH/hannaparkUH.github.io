@@ -32,17 +32,17 @@ Floobits allowed multiple users to edit files simultaneously. As users make edit
 
 Both Floobits and CodeTogether are great tools to collaborate programming with others.  However, I prefer using CodeTogether because of the following factors:
 
-1.	Easy to install (sign-up is not required)
+### 1.	Easy to install (sign-up is not required)
 
 After installing Floobits plugin, you have to signup for Floobits account to use the plugin. CodeTogether doesn’t require signup to install their plugin and you can share files in one click. 
 
 
-2.	Private and secure to share files
+### 2.	Private and secure to share files
 
 When you start a CodeTogether session, a unique key is generated for the session and embedded into your invite URL. According the CodeTogher website (https://www.codetogether.com/download/security/), the unique key is not saved in their server. It is only accessible by the host and guests.
 
 
-3.	“Control & Code” button
+### 3.	“Control & Code” button
 
 This allows only one person to edit a file at a time. It makes you to see where your participant is and easily detect changes. To avoid chaos and make programming collaboration effective, it’s better to assign one editor at a time.
 
