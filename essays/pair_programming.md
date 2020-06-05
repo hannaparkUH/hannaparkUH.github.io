@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: What is Pair Programming(or Group Programming)?
+title: My Experience with Remote Pair Programming(or Group Programming)
 # All dates must be YYYY-MM-DD format!
 date: 2020-06-04
 labels:
