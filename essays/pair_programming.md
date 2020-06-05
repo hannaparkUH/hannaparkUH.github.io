@@ -9,6 +9,7 @@ labels:
 ---
 <img class="ui image" src="../images/CodeTogether-Story.gif">
 (Image from CodeTogether.com)
+
 The image above explains why we need a pair programming tool as a developer. It is always hard to explain code syntax in words. Pair programming allows users to observe each lines of code and switch roles anytime. 
 I had a chance to try two pair programming tools, [Floobits]( https://floobits.com/)and [CodeTogether]( https://www.codetogether.com/), with my team members.
 
