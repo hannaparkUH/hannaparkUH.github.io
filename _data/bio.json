@@ -161,11 +161,11 @@
   ],
   "volunteer": [
         {
-      "organization": "Collaborative Software Development Laboratory, University of Hawaii",
+      "organization": "Collaborative Software Development Laboratory",
       "website": "https://csdl.ics.hawaii.edu/",
       "position": "Software Engineering Intern",
-      "startDate": "",
-      "endDate": "Summer 2020",
+      "startDate": "Summer",
+      "endDate": "2020",
       "summary": "",
       "highlights": [
       ]
