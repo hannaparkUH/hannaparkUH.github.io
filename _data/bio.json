@@ -164,10 +164,12 @@
       "organization": "Collaborative Software Development Laboratory",
       "website": "https://csdl.ics.hawaii.edu/",
       "position": "Software Engineering Intern",
-      "startDate": "Summer",
+      "startDate": "",
       "endDate": "2020",
       "summary": "",
       "highlights": [
+        "Develop a mobile application which introduces Computer Science to high school students in Hawaii",
+        "Redesign the website(https://radgrad.ics.hawaii.edu/) and improve the overall User Experience"
       ]
     },
     {
