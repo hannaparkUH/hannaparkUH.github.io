@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/CSExplore_th.jpg
-title: Mobile App Developed for University of Hawaii Summer Undergraduate Research Experience
+image: images/RadGrad_th.jpg
+title: RadGrad UI Redesign
 permalink: projects/RadGrad
 # All dates must be YYYY-MM-DD format!
 labels:
@@ -10,7 +10,7 @@ labels:
   - UI/UX
   - React Semantic UI
 
-summary: CSExplore: A mobile application to engage Hawaii secondary students in extracurricular computer science education
+summary: Redesign the RadGrad website to improve the overall User Experience
 ---
 
 <hr>
