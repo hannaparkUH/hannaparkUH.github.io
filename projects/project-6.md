@@ -12,10 +12,9 @@ labels:
   - SURE
   - Internship
 
-summary: CSExplore: A Mobile Application To Engage Hawaii Secondary Students in Extracurricular Computer Science Education
+summary: CSExplore: A mobile application to engage Hawaii secondary students in extracurricular computer science education
 
 ---
-As a final project, I created a website with my team member using a meteor application template. The main purpose of the website is to provide a rideshare service for the UH community. UH One Ride connects drivers with cars and passengers looking for a ride. Unlike other rideshare websites, UH One Ride is exclusive only for members of the UH system. Throughout this project, I have learned about various web applications tools(Semantic UI, React, Meteor), database, and teamwork. 
 
 <hr>
 
