@@ -6,7 +6,9 @@ title: Website Developed for ICS 314, Software Engineering I
 permalink: projects/UH One Ride
 # All dates must be YYYY-MM-DD format!
 labels:
-  - ICS 314, Final Project, Website 
+  - ICS 314
+  - Meteor
+  - Website development
 
 summary: UH One Ride "Commute Smart"
 ---
