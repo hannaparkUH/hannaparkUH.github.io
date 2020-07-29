@@ -1,12 +1,12 @@
 ---
 layout: project
 type: project
-image: images/uhoneride_th.jpg
-title: Website Developed for ICS 314, Software Engineering I
-permalink: projects/UH One Ride
+image: images/CSExplore_th.jpg
+title: Mobile App Developed for University of Hawaii Summer Undergraduate Research Experience
+permalink: projects/CSExplore
 # All dates must be YYYY-MM-DD format!
 labels:
-  - ICS 314, Final Project, Website 
+  - CSExplore, Mobile App, SURE, Summer Internship
 
 summary: CSExplore Mobile App 
 ---
