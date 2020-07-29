@@ -16,9 +16,9 @@ summary: A mobile app developed for University of Hawaii Summer Undergraduate Re
 
 <hr>
 
-<img class="ui image" src="{{ site.baseurl }}/images/CSExplore1.jpg"> 
+<img class="ui image" src="{{ site.baseurl }}/images/CSExplore1.png"> 
 
-<img class="ui image" src="{{ site.baseurl }}/images/CSExplore_club.gif">
+<img class="ui image" src="{{ site.baseurl }}/images/CSExplore2.png"> 
 
 
 <hr>
