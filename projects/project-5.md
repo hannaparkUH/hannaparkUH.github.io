@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/uhoneride_th.jpg
-title: Website Developed for ICS 314, Software Engineering I
-permalink: projects/UH One Ride
+title: Website Developed for ICS 314 (Software Engineering I)
+permalink: projects/UHOneRide
 # All dates must be YYYY-MM-DD format!
 labels:
   - ICS 314
