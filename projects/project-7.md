@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/CSExplore_th.jpg
-title: AAA
+title: CSExplore
 permalink: projects/CSExplore
 # All dates must be YYYY-MM-DD format!
 labels:
@@ -11,7 +11,7 @@ labels:
   - React Native
   - Internship
 
-summary: BBB
+summary: A mobile app developed for University of Hawaii Summer Undergraduate Research Experience(SURE) 
 ---
 
 <hr>
