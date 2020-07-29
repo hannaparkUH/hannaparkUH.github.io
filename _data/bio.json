@@ -35,6 +35,16 @@
       "keywords": [
       ]
     },
+        {
+      "name": "Mobile Development",
+      "keywords": [
+      ]
+    },
+        {
+      "name": "UX Design",
+      "keywords": [
+      ]
+    },
     {
       "name": "Education Technology",
       "keywords": [
@@ -61,6 +71,7 @@
         "Semantic UI React",
         "BootStrap",
         "Meteor",
+        "React Native",
         "Git/GitHub",
         "Camtasia"
       ]
@@ -149,6 +160,18 @@
     }
   ],
   "volunteer": [
+        {
+      "organization": "Collaborative Software Development Laboratory",
+      "website": "https://csdl.ics.hawaii.edu/",
+      "position": "Software Engineering Intern",
+      "startDate": "",
+      "endDate": "2020",
+      "summary": "",
+      "highlights": [
+        "Develop a mobile application which introduces Computer Science to high school students in Hawaii",
+        "Redesign the website(https://radgrad.ics.hawaii.edu/) and improve the overall User Experience"
+      ]
+    },
     {
       "organization": "Kilauea Ohana Play School",
       "website": "",
