@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/CSExplore_th.jpg
+image: images/CSExplore1.jpg
 title: CSExplore
 permalink: projects/CSExplore
 # All dates must be YYYY-MM-DD format!
@@ -16,11 +16,10 @@ summary: A mobile app developed for University of Hawaii Summer Undergraduate Re
 
 <hr>
 
-<img class="ui image" src="{{ site.baseurl }}/images/CSExplore_explore.gif"> <img class="ui image" src="{{ site.baseurl }}/images/CSExplore_club.gif">
+<img class="ui image" src="{{ site.baseurl }}/images/CSExplore_1.png"> 
 
-<img class="ui image" src="{{ site.baseurl }}/images/CSExplore_community.gif"> <img class="ui image" src="{{ site.baseurl }}/images/CSExplore_reward.gif"> 
+<img class="ui image" src="{{ site.baseurl }}/images/CSExplore_club.gif">
 
-<img class="ui image" src="{{ site.baseurl }}/images/CSExplore_aboutme.gif"> 
 
 <hr>
 
