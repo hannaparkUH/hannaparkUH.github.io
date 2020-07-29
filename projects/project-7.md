@@ -1,27 +1,30 @@
 ---
 layout: project
 type: project
-image: images/RadGrad2_th.jpg
-title: RadGrad UI Redesign 
-permalink: projects/RadGrad
+image: images/CSExplore_th.jpg
+title: Mobile App Developed for University of Hawaii Summer Undergraduate Research Experience
+permalink: projects/CSExplore
 # All dates must be YYYY-MM-DD format!
 labels:
-  - RadGrad
-  - UI/UX
-  - React Semantic UI
+  - CSExplore
+  - Mobile App
+  - React Native
+  - SURE
+  - Internship
 
-summary: Redesign the RadGrad website to improve the overall User Experience
+summary: CSExplore: A mobile application to engage Hawaii secondary students in extracurricular computer science education
+
 ---
 
 <hr>
 
-<img class="ui image" src="{{ site.baseurl }}/images/RadGrad1.png">
+<img class="ui image" src="{{ site.baseurl }}/images/CSExplore_explore.gif"> <img class="ui image" src="{{ site.baseurl }}/images/CSExplore_club.gif">
 
-<img class="ui image" src="{{ site.baseurl }}/images/RadGrad2.png">
+<img class="ui image" src="{{ site.baseurl }}/images/CSExplore_community.gif"> 
 
-<img class="ui image" src="{{ site.baseurl }}/images/RadGrad3.png"> 
+<img class="ui image" src="{{ site.baseurl }}/images/CSExplore_reward.gif"> 
 
-<img class="ui image" src="{{ site.baseurl }}/images/RadGrad4.png"> 
+<img class="ui image" src="{{ site.baseurl }}/images/CSExplore_aboutme.gif"> 
 
 <hr>
 
