@@ -6,7 +6,9 @@ title: RadGrad UI Redesign
 permalink: projects/RadGrad
 # All dates must be YYYY-MM-DD format!
 labels:
-  - ICS 314, Final Project, Website 
+  - RadGrad
+  - UI/UX
+  - React Semantic UI
 
 summary: Redesign the RadGrad website to improve the overall User Experience
 ---
