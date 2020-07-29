@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/RadGrad2_th.jpg
 title: RadGrad UI Redesign 
-permalink: projects/UH One Ride
+permalink: projects/RadGrad
 # All dates must be YYYY-MM-DD format!
 labels:
   - ICS 314, Final Project, Website 
