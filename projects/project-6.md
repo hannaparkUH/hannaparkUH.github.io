@@ -14,9 +14,7 @@ As a final project, I created a website with my team member using a meteor appli
 
 <hr>
 
-<img class="ui image" src="{{ site.baseurl }}/images/CSExplore_explore.gif">
-
-<img class="ui image" src="{{ site.baseurl }}/images/CSExplore_club.gif">
+<img class="ui image" src="{{ site.baseurl }}/images/CSExplore_explore.gif"> <img class="ui image" src="{{ site.baseurl }}/images/CSExplore_club.gif">
 
 <img class="ui image" src="{{ site.baseurl }}/images/CSExplore_community.gif"> 
 

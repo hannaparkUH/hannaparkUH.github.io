@@ -1,12 +1,12 @@
 ---
 layout: project
 type: project
-image: images/uhoneride_th.jpg
-title: Website Developed for ICS 314, Software Engineering I
-permalink: projects/UH One Ride
+image: images/RadGrad2_th.jpg
+title: RadGrad UI Redesign 
+permalink: projects/RadGrad
 # All dates must be YYYY-MM-DD format!
 labels:
-  - ICS 314, Final Project, Website 
+  - RadGrad, UI Design
 
 summary: UH One Ride "Commute Smart"
 ---
@@ -14,13 +14,13 @@ As a final project, I created a website with my team member using a meteor appli
 
 <hr>
 
-<img class="ui image" src="{{ site.baseurl }}/images/uhoneride_home.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/RadGrad1.png">
 
-<img class="ui image" src="{{ site.baseurl }}/images/uhoneride_offer.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/RadGrad2.png">
 
-<img class="ui image" src="{{ site.baseurl }}/images/uhoneride_find.jpg"> 
+<img class="ui image" src="{{ site.baseurl }}/images/RadGrad3.png"> 
 
-<img class="ui image" src="{{ site.baseurl }}/images/uhoneride_driverprofile.jpg"> 
+<img class="ui image" src="{{ site.baseurl }}/images/RadGrad4.png"> 
 
 <hr>
 
