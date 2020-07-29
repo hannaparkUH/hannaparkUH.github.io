@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: images/HungrySpider_th.jpg
-title: Java Game
+title: Java Games
 permalink: projects/game
 # All dates must be YYYY-MM-DD format!
 labels:
   - Java
   - Illustration
   
-summary: JAVA Games developed for ICS 111
+summary: JAVA Games developed for ICS 111(Introduction to Computer Science I)
 ---
 <img class="ui image" src="{{ site.baseurl }}/images/HungrySpider.jpg">
 
