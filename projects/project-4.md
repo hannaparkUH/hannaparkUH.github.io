@@ -1,25 +1,32 @@
 ---
 layout: project
 type: project
-image: images/illustration_th.jpg
-title: Illustration
-permalink: projects/illustration
+image: images/HungrySpider_th.jpg
+title: Java Game
+permalink: projects/game
 # All dates must be YYYY-MM-DD format!
 labels:
+  - Java
   - Illustration
-
-summary: Technical illustrations created in Adobe Illustrator
+  
+summary: JAVA Games developed for ICS 111
 ---
+<img class="ui image" src="{{ site.baseurl }}/images/HungrySpider.jpg">
 
-Adobe Illustrator is the first graphic design software I learned in college. Although Illustrator and Photoshop have a lot in common, there are differences between the two software. Illustrator has advantages that Photoshop doesn't have. Photoshop is based on pixel while Illustrator works off vectors. Vectors are scalable images that can be sized up and down easily. I like drawing and coloring using various tools in Illustrator. 
+This game is developed to gain experience in using arrays, object-oriented programming, variables, operators, loops, as well as some graphics and sound. The player gets scores as the spider catches bugs and loses scores as the spider gets hit by a net. Once the bug is caught, it disappears and re-appears in some other random location.
+
+You can learn more at the [YouTube: Hungry Spider](https://www.youtube.com/watch?v=j-TS8BUSGZk).
 
 <hr>
 
-<img class="ui image" src="{{ site.baseurl }}/images/sushi.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/Koreans.jpg">
 
-<img class="ui image" src="{{ site.baseurl }}/images/RedWatch.jpg">
+This game is developed for people (adolescents and up) who want to learn basic Korean alphabet letters using JAVA. The player gets scores by matching the letter in the fishbowl with the appropriate lettered fish. 
 
-<img class="ui image" src="{{ site.baseurl }}/images/waterfront.jpg"> 
+You can learn more at the [YouTube: Fishing for Korean alphabet letters](https://www.youtube.com/watch?v=IBvdSvmN7B4&feature=youtu.be).
+
+
+
 
 
 
