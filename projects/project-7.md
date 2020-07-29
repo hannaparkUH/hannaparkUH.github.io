@@ -6,9 +6,11 @@ title: Mobile App Developed for University of Hawaii Summer Undergraduate Resear
 permalink: projects/CSExplore
 # All dates must be YYYY-MM-DD format!
 labels:
-  - ICS 314, Final Project, Website 
+  - ICS 314
+  - Final Project
+  - Website 
 
-summary: "CSExplore" A mobile application to engage Hawaii secondary students in extracurricular computer science education
+summary: 
 ---
 
 <hr>
