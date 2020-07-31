@@ -11,18 +11,22 @@ labels:
   - React Native
   - Internship
 
-summary: A mobile app developed for University of Hawaii Summer Undergraduate Research Experience(SURE) 
+summary: A Mobile Application To Engage Hawaii Secondary Students in Extracurricular Computer Science Education 
 ---
 
 <hr>
-
+# A Mobile Application To Engage Hawaii Secondary Students in Extracurricular Computer Science Education 
 <img class="ui image" src="{{ site.baseurl }}/images/CSExplore1.png"> 
 
 <img class="ui image" src="{{ site.baseurl }}/images/CSExplore2.png"> 
 
 
 <hr>
+# 2020 SURE Symposium
+<img class="ui image" src="{{ site.baseurl }}/images/csexplore_presentation.png"> 
 
-[Documentation Repo for UH One Ride](https://uh-oneride.github.io/)
+University of Hawaii Summer Undergraduate Research Experienc
+
+[Documentation Repo for CSExplore](https://uh-oneride.github.io/)
 
 
