@@ -27,6 +27,6 @@ summary: A Mobile Application To Engage Hawaii Secondary Students in Extracurric
 
 University of Hawaii Summer Undergraduate Research Experienc
 
-[Documentation Repo for CSExplore](https://uh-oneride.github.io/)
+[Documentation Repo for CSExplore](https://github.com/hannaparkUH/hanna_csexplore)
 
 
