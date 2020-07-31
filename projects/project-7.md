@@ -21,7 +21,7 @@ summary: A Mobile Application To Engage Hawaii Secondary Students in Extracurric
 
 <img class="ui image" src="{{ site.baseurl }}/images/CSExplore2.png"> 
 
-During the summer of 2020, I got an intership at Collaborative Software Development Laboratory led by Philip Johnson, a professor in the department of Information and Computer Sciences at the University of Hawaii. [CSDL](https://csdl.ics.hawaii.edu/)
+During the summer of 2020, I had a virtual intership at Collaborative Software Development Laboratory led by Philip Johnson, a professor in the department of Information and Computer Sciences at the University of Hawaii. [CSDL](https://csdl.ics.hawaii.edu/)
 
 
 
