@@ -31,7 +31,7 @@ Our team had reviewed several Native App Frameworks and decided to use React Nat
 ## 2020 SURE Symposium
 <img class="ui image" src="{{ site.baseurl }}/images/csexplore_presentation.png"> 
 
-At the end of the internship, our team presented the CSExplore project at the SURE Symposium.[SURE](https://manoa.hawaii.edu/undergrad/urop/summer-undergraduate-research-experience-sure/sure-program/) . This internship taught me many things. The best achievement I have gained is that I created my first mobile app. I have many years of experience in creating a website, but it was my first time creating a mobile app. I have found there are many differences between website design and mobile app design. On mobile, users want to get information exactly what they need. It's important to update content frequently and provide interactive features to retain users. 
+At the end of the internship, our team presented the CSExplore project at the [SURE Symposium](https://manoa.hawaii.edu/undergrad/urop/summer-undergraduate-research-experience-sure/sure-program/). This internship taught me many things. The best achievement I have gained is that I created my first mobile app. I have many years of experience in creating a website, but it was my first time creating a mobile app. I have found there are many differences between website design and mobile app design. On mobile, users want to get information exactly what they need. It's important to update content frequently and provide interactive features to retain users. It was fun learning a app framework "React Native".
 
 Secondly, I learned how to work with other people remotely by using various online tools such as Discord, Code Together, and Zoom.
 
