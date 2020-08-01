@@ -16,7 +16,7 @@ summary: A Mobile Application To Engage Hawaii Secondary Students in Extracurric
 ---
 
 <hr>
-# A Mobile Application To Engage Hawaii Secondary Students in Extracurricular Computer Science Education 
+## A Mobile Application To Engage Hawaii Secondary Students in Extracurricular Computer Science Education 
 <img class="ui image" src="{{ site.baseurl }}/images/CSExplore1.png"> 
 
 <img class="ui image" src="{{ site.baseurl }}/images/CSExplore2.png"> 
@@ -28,7 +28,7 @@ Our team developed a mobile application called "CSExplore". The app is targeted 
 Our team had reviewed several Native App Frameworks and decided to use React Native. React Native has been a popular choice for many companies. Code reusability is one of the benefits using React Native. It is a cross-platform framework that can run both iOS and Android applications. We have developed two different prototypes (Whimsical approach and Professional approach) targeting different types of students. I worked on the Professional approach which provides more professional information such as career goals, computer science degrees, and learning resources selected by professionals. It is more focused on community-oriented resources such as student clubs, hackathons, workshops, and events. Students can get professional advice or feedback from Computer Science experts by posting questions or their Computer Science projects.
 
 
-# 2020 SURE Symposium
+## 2020 SURE Symposium
 <img class="ui image" src="{{ site.baseurl }}/images/csexplore_presentation.png"> 
 
 University of Hawaii Summer Undergraduate Research Experienc
