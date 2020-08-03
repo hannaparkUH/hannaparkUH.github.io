@@ -59,7 +59,11 @@
         "HTML/CSS",
         "C/C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "Semantic UI",
+        "BootStrap",
+        "Meteor",
+        "React Native",
       ]
     },
     {
@@ -68,10 +72,7 @@
       "keywords": [
         "Adobe Creative Suite",
         "Wordpress",
-        "Semantic UI",
-        "BootStrap",
-        "Meteor",
-        "React Native",
+        "Linux",
         "Git/GitHub",
         "Camtasia"
       ]
