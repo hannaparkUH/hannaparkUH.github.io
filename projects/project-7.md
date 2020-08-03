@@ -35,9 +35,6 @@ At the end of the internship, our team presented the CSExplore project at the [S
 
 Secondly, I learned how to work with other people remotely by using various online tools. Because of COVID-19 concerns, all of the students and professors worked remotely for 9 weeks. We had an online meeting everyday and shared ideas through Zoom, Discord and CodeTogether. I had no problem communicating with my team members. Remote work was surprisingly more productive than I expected. 
 
-Lastly, I want to say "Thank you" to Professor Philip Johnson for giving me this internship opportunity and teaching me great tips to become a software engineer.
-
-
 [Documentation Repo for CSExplore](https://github.com/hannaparkUH/hanna_csexplore)
 
 
