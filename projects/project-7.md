@@ -33,7 +33,9 @@ Our team had reviewed several Native App Frameworks and decided to use React Nat
 
 At the end of the internship, our team presented the CSExplore project at the [SURE Symposium](https://manoa.hawaii.edu/undergrad/urop/summer-undergraduate-research-experience-sure/sure-program/). This internship taught me many things. The best achievement I have gained is that I created my first mobile app. I have many years of experience in creating a website, but it was my first time creating a mobile app. I have found there are many differences between website design and mobile app design. On mobile, users want to get information exactly what they need. It's important to update content frequently and provide interactive features to retain users. It was also fun learning a new app framework "React Native" and UI libraries.
 
-Secondly, I learned how to work with other people remotely by using various online tools such as Discord, Code Together, and Zoom.
+Secondly, I learned how to work with other people remotely by using various online tools. Because of COVID-19 concerns, all of the students and professors worked remotely for 9 weeks. We had an online meeting everyday and shared ideas through Zoom, Discord and CodeTogether. I had no problem communicating with my team members. Remote work was surprisingly more productive than I expected. 
+
+Lastly, I want to say "Thank you" to Professor Philip Johnson for giving me this internship opportunity and teaching me great tips to become a software engineer.
 
 
 [Documentation Repo for CSExplore](https://github.com/hannaparkUH/hanna_csexplore)
