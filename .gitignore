@@ -3,4 +3,5 @@
 .idea/
 *.iml
 _site/
+temp/
 .sass-cache/
