@@ -14,8 +14,6 @@ labels:
 
 summary: A Mobile Application To Engage Hawaii Secondary Students in Extracurricular Computer Science Education 
 ---
-
-<hr>
 ## A Mobile Application To Engage Hawaii Secondary Students in Extracurricular Computer Science Education 
 <img class="ui image" src="{{ site.baseurl }}/images/CSExplore1.png"> 
 
