@@ -10,6 +10,7 @@ labels:
   - Photoshop
 summary: Logo, Brand Identity, Poster, Presentation, eBlast 
 ---
+I have experience as a print and web designer. I studied Package and Graphic Design in college and worked as a graphic designer for a couple of years after graduation. Although most of my design projects today are more related to web design than print design, I still enjoy creating posters, flyers, and logos. It’s important to know the differences when you design for print and web. The print design needs more attention and detail than web design.
 
 <img class="ui image" src="{{ site.baseurl }}/images/NSSE.jpg">
 
