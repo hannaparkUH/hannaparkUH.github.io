@@ -26,22 +26,22 @@
   },
   "interests": [
     {
-      "name": "Web Design/Development",
+      "name": "Web/Mobile Development",
       "keywords": [
       ]
     },
-    {
+        {
+      "name": "UX/UI Design",
+      "keywords": [
+      ]
+    },
+        {
+      "name": "Graphic Design",
+      "keywords": [
+      ]
+    },
+        {
       "name": "Software Engineering",
-      "keywords": [
-      ]
-    },
-        {
-      "name": "Mobile Development",
-      "keywords": [
-      ]
-    },
-        {
-      "name": "UX Design",
       "keywords": [
       ]
     },
@@ -75,35 +75,6 @@
         "Linux",
         "Git/GitHub",
         "Camtasia"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI(expected in Fall 2020)",
-      "area": "Information and Computer Science",
-      "studyType": "B.A.",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    },
-        {
-      "institution": "Sheridan College, Oakville, Canada",
-      "area": "New Media Design",
-      "studyType": "Postgraduate certificate",
-      "endDate": "2006",
-      "gpa": "",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "Humber College, Toronto, Canada",
-      "area": "Package and Graphic Design",
-      "studyType": "Associate Degree",
-      "endDate": "2004",
-      "gpa": "",
-      "courses": [
       ]
     }
   ],
@@ -160,6 +131,35 @@
       ]
     }
   ],
+    "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI(expected in Fall 2020)",
+      "area": "Information and Computer Science",
+      "studyType": "B.A.",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+        {
+      "institution": "Sheridan College, Oakville, Canada",
+      "area": "New Media Design",
+      "studyType": "Postgraduate certificate",
+      "endDate": "2006",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Humber College, Toronto, Canada",
+      "area": "Package and Graphic Design",
+      "studyType": "Associate Degree",
+      "endDate": "2004",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+  ],
   "volunteer": [
         {
       "organization": "Collaborative Software Development Laboratory",
@@ -170,7 +170,7 @@
       "summary": "",
       "highlights": [
         "Develop a mobile application which introduces Computer Science to high school students in Hawaii",
-        "Redesign the website(https://radgrad.ics.hawaii.edu/) and improve the overall User Experience"
+        "Redesign the website(https://radgrad.ics.hawaii.edu/) to improve the overall User Experience"
       ]
     },
     {
