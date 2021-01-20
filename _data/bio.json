@@ -79,12 +79,24 @@
     }
   ],
   "work": [
+        {
+      "company": "Collaborative Software Development Laboratory (UH Manoa)",
+      "position": "Software Engineering Researcher",
+      "website": "",
+      "startDate": "2021-01-15",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "User Interface Design/Implementation/Evaluation",
+        "Front-end development"
+      ]
+    },
     {
       "company": "UH Information Technology Services",
       "position": "Web Designer",
       "website": "",
       "startDate": "2019-08-01",
-      "endDate": "Present",
+      "endDate": "2020-12-15",
       "summary": "",
       "highlights": [
         "Design websites & Font-end development",
@@ -96,7 +108,7 @@
       "position": "Media Specialist",
       "website": "",
       "startDate": "2019-03-01",
-      "endDate": "Present",
+      "endDate": "2020-12-15",
       "summary": "",
       "highlights": [
         "Create power point presentations, analysis briefs, and reports.",
@@ -133,10 +145,10 @@
   ],
     "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI(expected in Fall 2020)",
+      "institution": "University of Hawaii, Honolulu, HI",
       "area": "Information and Computer Science",
       "studyType": "B.A.",
-      "endDate": "Present",
+      "endDate": "2020",
       "gpa": "",
       "courses": [
       ]
